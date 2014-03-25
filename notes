@@ -1,0 +1,21 @@
+WebTester Install
+
+Creating tables...
+
+Inserting data...
+
+Database created.
+
+Warning: fopen(./includes/db-conf.php) [function.fopen]: failed to open stream: Permission denied in /home/tipsntra/public_html/exam/install2.php on line 436
+
+Warning: fwrite(): supplied argument is not a valid stream resource in /home/tipsntra/public_html/exam/install2.php on line 448
+
+Settings saved.
+
+You can now login. The default account details are:
+
+Username: admin
+Password: admin
+
+WebTester Admin
+
